@@ -1,0 +1,22 @@
+body {
+    background-color:whitesmoke
+}
+
+
+img {
+    width: 1000px;
+    height: 300px;
+}
+
+h1, p {
+    font-family: 'Courier New', Courier, monospace;    
+    font-size: 40px;
+
+}
+
+
+.main-text {
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
